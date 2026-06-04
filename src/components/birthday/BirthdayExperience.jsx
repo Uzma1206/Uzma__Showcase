@@ -6,11 +6,11 @@ import Particles from '../ui/Particles';
 
 const SLIDES = [
   'Once upon a time…',
-  'There was a girl who turned ordinary days into stories.',
-  'She laughed in a way that rewrote rooms.',
-  'She made silence feel safe, and chaos feel like home.',
-  'And tonight, the universe pauses just for her.',
-  'Happy Birthday, Uzma.',
+  'There was a someone who turned ordinary days into stories.',
+  'Who laughed in a way that rewrote rooms.',
+  'Who made silence feel safe, and chaos feel like home.',
+  'And tonight, the universe pauses just for you.',
+  'Happy Birthday, [Name].',
   'You made ordinary moments unforgettable.',
 ];
 

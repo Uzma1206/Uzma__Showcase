@@ -4,8 +4,8 @@ import { useAuth } from '../../context/authcontext';
 
 const profiles = [
   {
-    id: 'uzma',
-    name: 'Uzma',
+    id: 'User1',
+    name: 'User1',
     color: 'from-rose-500/40 via-ember/50 to-rose-700/30',
   },
   {

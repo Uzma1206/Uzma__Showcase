@@ -66,7 +66,7 @@ export default function Home() {
               Something special waits for you.
             </h3>
             <p className="text-bone/60 max-w-xl mx-auto mb-8">
-              A cinematic moment crafted only for you, Uzma.
+              A cinematic moment crafted only for you.
             </p>
             <button
               data-hover
